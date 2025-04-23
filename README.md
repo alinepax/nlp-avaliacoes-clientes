@@ -20,7 +20,7 @@ O dataset inclui informações sobre pedidos, produtos, entregas e avaliações 
 - Avaliação com **acurácia**, **matriz de confusão** e **classification report**.
 
 ## 🧠 Insight Final
-> O modelo atingiu uma acurácia de aproximadamente **89%**, mostrando ótimo desempenho na identificação de sentimentos positivos. Há oportunidades de melhoria para equilibrar a detecção de avaliações negativas, o que pode ser alcançado com técnicas de balanceamento de classes ou modelos mais avançados como BERT.
+O modelo atingiu uma acurácia de aproximadamente **89%**, mostrando ótimo desempenho na identificação de sentimentos positivos. Há oportunidades de melhoria para equilibrar a detecção de avaliações negativas, o que pode ser alcançado com técnicas de balanceamento de classes ou modelos mais avançados como BERT.
 
 ---
 
