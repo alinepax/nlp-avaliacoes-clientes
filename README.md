@@ -21,4 +21,12 @@ Classificar avaliações como **positivas** ou **negativas** com base no conteú
 
 ---
 
-📌 Projeto criado por [Aline Paz](https://www.linkedin.com/in/alinedapaz) — Abril de 2025.
+## 👩‍💻 Sobre a Autora
+
+Desenvolvido por **[Aline Paz](https://github.com/alinepax)**  
+📧 Email: aline.santospaz@gmail.com
+🎯 Este projeto faz parte do meu portfólio como profissional em transição para a área de Dados e Tecnologia.
+
+---
+
+⭐ Se você gostou, deixe uma estrela no repositório!
