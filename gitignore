@@ -1,0 +1,24 @@
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Ambiente virtual
+.env/
+.venv/
+env/
+venv/
+*.env
+
+# Arquivos temporários
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
