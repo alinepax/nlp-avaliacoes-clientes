@@ -24,7 +24,7 @@ Classificar avaliações como **positivas** ou **negativas** com base no conteú
 ## 👩‍💻 Sobre a Autora
 
 Desenvolvido por **[Aline Paz](https://github.com/alinepax)**  
-📧 Email: aline.santospaz@gmail.com
+📧 Email: aline.santospaz@gmail.com  
 🎯 Este projeto faz parte do meu portfólio como profissional em transição para a área de Dados e Tecnologia.
 
 ---
