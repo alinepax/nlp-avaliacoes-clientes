@@ -7,8 +7,7 @@ Classificar avaliações como **positivas** ou **negativas** com base no conteú
 
 ## 📁 Estrutura
 - `Reviews_NLP.ipynb`: Notebook com todo o processo de análise e modelagem
-- `data/`: Pasta (opcional) com os dados utilizados
-- `img/`: Gráficos e imagens (opcional)
+- `data/`: Pasta com os dados utilizados
 
 ## ⚙️ Técnicas Utilizadas
 - Pré-processamento de texto (stopwords, lematização)
