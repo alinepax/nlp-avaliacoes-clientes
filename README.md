@@ -24,6 +24,12 @@ O modelo atingiu uma acurácia de aproximadamente **89%**, mostrando ótimo dese
 
 ---
 
+## 📄 Licença
+
+Este projeto está licenciado sob a [MIT License](LICENSE).
+
+---
+
 ## 👩‍💻 Sobre a Autora
 
 Desenvolvido por **[Aline Paz](https://github.com/alinepax)**  
